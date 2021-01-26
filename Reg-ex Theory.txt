@@ -1,0 +1,10 @@
+Regular Expressions
+A regular expression (shortened as regex or regexp;[1] also referred to as rational expression[2][3]) is a sequence of characters that define a search pattern. Usually such patterns are used by string-searching algorithms for "find" or "find and replace" operations on strings, or for input validation. It is a technique developed in theoretical computer science and formal language theory.
+
+Notepad++ has a regexp engine related search mode
+
+1. Compartmentalize the expression
+2. Understand the requirement
+3. Idenfity patters in inclusion or exclusion list
+4. Come up with the patters that matches what we need with regexp patterns
+5. User a regexp engine to apply the pattern on the input

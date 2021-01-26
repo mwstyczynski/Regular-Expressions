@@ -1,0 +1,14 @@
+a* - zero or more characters preceeding the *
+
+Example 1
+
+fooaaabar
+fooaabar
+fooabar
+foobar
+fooxxxbar
+fooxbar
+
+1. compartmentalize: foo + "zero or more 'a' in between" + bar
+2. pattern: 'foo*abar'
+
